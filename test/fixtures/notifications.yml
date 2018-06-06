@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  campaign_id: 1
+  send_grid_identifier: MyString
+
+two:
+  email: MyString
+  campaign_id: 1
+  send_grid_identifier: MyString
